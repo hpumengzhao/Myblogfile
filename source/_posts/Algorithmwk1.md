@@ -1,5 +1,5 @@
 ---
-title: Algorithm Weekly 1
+title: Algorithms Weekly 1
 tags: Problems
 mathjax: true
 ---
